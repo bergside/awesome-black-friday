@@ -179,6 +179,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- <img src="assets/favicons/broadcast.png" width="16" height="16" alt=""> **[Broadcast](https://sendbroadcast.net/black-friday)** - Self-hosted email marketing with a one-time license.
+
+  <details>
+  <summary><strong>$100 off the Regular License with code BLACKFRIDAY26</strong></summary>
+
+  Broadcast's Regular License is $150 instead of $250 from November 9 to December 1, 2026 (23:59 ET) with code BLACKFRIDAY26, which checkout applies from the deal page. It is a one-time payment for one server, with unlimited subscribers and no monthly fee; you bring your own sending provider (Amazon SES, Postmark, Mailgun or SMTP). 30-day money-back guarantee.
+
+  [Offer details](https://sendbroadcast.net/black-friday).
+
+  </details>
+
 ## Social & content
 
 - <img src="assets/favicons/buffer.png" width="16" height="16" alt=""> **[Buffer](https://join.buffer.com/bergside)** - Plan, schedule, and track social posts.
