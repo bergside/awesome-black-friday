@@ -95,6 +95,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- <img src="assets/favicons/scanify.png" width="16" height="16" alt=""> **[Scanify](https://scanify.to/pricing)** - Check a link, file, QR code or IP before you open it.
+
+  <details>
+  <summary><strong>Black Friday: 50% off Lifetime Pro or 3 months of Pro</strong></summary>
+
+  Lifetime Pro is $14.50 instead of $29 with code BLACKFRIDAY, one payment. Monthly Pro is $10/month instead of $20 for the first 3 months with code BFPRO, then $20/month. Ends Dec 9, 2026.
+
+  [Offer details](https://scanify.to/pricing).
+
+  </details>
+
 ## AI & automation
 
 - <img src="assets/favicons/ai-fiesta.png" width="16" height="16" alt=""> **[AI Fiesta](https://aifiesta.link/bergside)** - Chat, research, and create with multiple AI models.
