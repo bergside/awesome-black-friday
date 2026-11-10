@@ -308,6 +308,19 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 - <img src="assets/favicons/udemy.png" width="16" height="16" alt=""> **[Udemy](https://trk.udemy.com/oNKkno)** - Self-paced courses in programming, cloud, AI, and more.
   <br>*No offer confirmed yet.*
 
+- **[LabEx Pro](https://labex.io/)** - Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud.
+
+  <details>
+  <summary><strong>Black Friday: 30% off one year or 50% off two years</strong></summary>
+
+  [One-year membership](https://labex.io/checkout?type=2&coupon=2026BF30): 30% off with code `2026BF30`.
+
+  [Two-year membership](https://labex.io/checkout?type=4&coupon=2026BF50): 50% off with code `2026BF50`.
+
+  Both offers end December 7, 2026.
+
+  </details>
+
 ## Analytics
 
 - <img src="assets/favicons/ai-peekaboo.png" width="16" height="16" alt=""> **[AI Peekaboo](https://www.aipeekaboo.com/)** - Track your brand's visibility in AI search.
