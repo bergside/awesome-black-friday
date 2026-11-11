@@ -136,6 +136,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 - <img src="assets/favicons/magica.png" width="16" height="16" alt=""> **[Magica](https://try.magica.com/bergside)** - An AI workspace for images, video, and design.
   <br>*No offer confirmed yet.*
 
+- <img src="assets/favicons/mindpal.png" width="16" height="16" alt=""> **[MindPal](https://mindpal.io/pricing)** - Turn your expertise into AI agents and multi-agent workflows.
+
+  <details>
+  <summary><strong>60% off your first year on annual plans</strong> · code <code>BLACKFRIDAY2026</code></summary>
+
+  60% off the first year of any annual plan, applied at checkout until December 11, 2026 (PT). Billed yearly, Pro is $16/month instead of $39, Advanced $60 instead of $149 and Ultra $150 instead of $374. Renews at the regular annual price.
+
+  [Offer details](https://mindpal.io/pricing).
+
+  </details>
+
 - <img src="assets/favicons/n8n.png" width="16" height="16" alt=""> **[n8n](https://n8n.partnerlinks.io/dcpb44nu231k)** - Automate workflows with connected apps and AI agents.
 
   <details>
