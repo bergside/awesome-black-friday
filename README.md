@@ -46,6 +46,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- **[Kinsta](https://kinsta.com/black-friday/)** - Managed hosting for WordPress.
+
+  <details>
+  <summary><strong>Black Friday: 3 months free on annual plans, or 50% off the first 3 months on monthly plans</strong></summary>
+
+  Fast, secure, feature-rich managed hosting for WordPress on next-generation cloud infrastructure, secured by Cloudflare. Includes free migrations, free wildcard SSL, a global CDN, Edge Caching, Vulnerability Protection by Patchstack and 24/7/365 expert support in 8 languages. New customers get 3 months free on annual plans or 50% off the first 3 months on monthly plans. Offer ends December 1, 2026.
+
+  [Offer details](https://kinsta.com/black-friday/).
+
+  </details>
+
 - <img src="assets/favicons/namecheap.png" width="16" height="16" alt=""> **[Namecheap](https://namecheap.pxf.io/AgOvKK)** - Domains for your next project.
 
   <details>
