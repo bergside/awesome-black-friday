@@ -546,6 +546,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- <img src="assets/favicons/supasidebar.png" width="16" height="16" alt=""> **[SupaSidebar](https://supasidebar.com)** - Arc-like sidebar for all browsers.
+
+  <details>
+  <summary><strong>50% off Lifetime with code SIDEBARBF50</strong></summary>
+
+  Lifetime is $39.50 instead of $79 with code SIDEBARBF50, Nov 9 to Dec 7, 2026. One-time purchase, 3 Macs, every future version. macOS 14 or later. No affiliate link.
+
+  [Offer details](https://supasidebar.com/pricing).
+
+  </details>
+
 - <img src="assets/favicons/voiceos.png" width="16" height="16" alt=""> **[VoiceOS](https://refer.voiceos.com/bergside)** - Dictate and work across desktop apps with your voice.
 
   <details>
