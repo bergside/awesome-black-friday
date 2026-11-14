@@ -389,6 +389,9 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
 ## Development & design
 
+- **[Sip](https://sipapp.io/blackfriday/)** - Native macOS color picker for collecting, organizing, editing, and sharing colors and palettes.
+  <br>**50% off** · `BLACKFRIDAY26` Nov 27–29, 2026 · `CYBERMONDAY26` Nov 30–Dec 2, 2026.
+
 - <img src="assets/favicons/context.png" width="16" height="16" alt=""> **[Context.dev](https://link.context.dev/bergside)** - Web search and crawling APIs for AI apps.
 
   <details>
