@@ -133,6 +133,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- <img src="assets/favicons/getyoutubetranscript.png" width="16" height="16" alt=""> **[GetYouTubeTranscript](https://getyoutubetranscript.com/pricing)** - YouTube transcripts in the browser, a Chrome extension, and an API.
+
+  <details>
+  <summary><strong>Lifetime access for $149 one-time</strong></summary>
+
+  Lifetime is $149 once with 3,000 credits every month, for the first 100 buyers, Nov 14 to Dec 10, 2026. Or take 30% off the first year of Annual ($54 to $37.80) with code BF26GYT; it renews at $54/yr. No affiliate link.
+
+  [Offer details](https://getyoutubetranscript.com/pricing).
+
+  </details>
+
 - <img src="assets/favicons/magica.png" width="16" height="16" alt=""> **[Magica](https://try.magica.com/bergside)** - An AI workspace for images, video, and design.
   <br>*No offer confirmed yet.*
 
