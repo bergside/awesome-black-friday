@@ -73,6 +73,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
 ## Security & privacy
 
+- <img src="assets/favicons/offseq-guard.png" width="16" height="16" alt=""> **[Guard by OffSeq](https://guard.report/)** - Website security and NIS2/GDPR scan with ongoing monitoring.
+
+  <details>
+  <summary><strong>Black Friday: 50% off the full report and first month of monitoring</strong></summary>
+
+  Full report €19.95 instead of €39.90 and monitoring €12.50 instead of €25 for the first month per domain, incl. VAT. Applied automatically, no code. Ends Dec 1, 2026 at 22:00 UTC.
+
+  [Offer details](https://guard.report/monitoring).
+
+  </details>
+
 - <img src="assets/favicons/nordpass.png" width="16" height="16" alt=""> **[NordPass](https://go.nordpass.io/aff_c?offer_id=488&aff_id=160368&url_id=9356)** - Store passwords and passkeys, and autofill logins.
 
   <details>
@@ -92,6 +103,50 @@ Annual savings are compared with monthly billing and require upfront payment. Of
   Two-year plans, paid upfront. Savings vary by plan and region; renewals cost more. Extra months apply to eligible purchases kept beyond 30 days. Ends Dec 9, 2026 at 9 a.m. CET (UTC+1).
 
   [Offer details](https://nordvpn.com/black-friday/).
+
+  </details>
+
+- <img src="assets/favicons/offseq-breach.png" width="16" height="16" alt=""> **[OffSeq Breach](https://breach.offseq.com/)** - Leaked-credential monitoring for company domains.
+
+  <details>
+  <summary><strong>Black Friday: 50% off the first billing period</strong></summary>
+
+  Code BLACK on any paid plan, e.g. Basic €12 instead of €24 for the first month, excl. VAT; then the regular price. Ends Dec 2, 2026 at 23:59 UTC.
+
+  [Offer details](https://breach.offseq.com/#pricing).
+
+  </details>
+
+- <img src="assets/favicons/offseq-mirage.png" width="16" height="16" alt=""> **[OffSeq Mirage](https://mirage.offseq.com/)** - Honeypot threat intelligence: see who targets your network.
+
+  <details>
+  <summary><strong>Black Friday: 50% off the first 3 months</strong></summary>
+
+  Code BFCM2026, pre-filled at checkout, on any plan, e.g. Starter €24.50 instead of €49 per month for 3 months, excl. VAT. Ends Dec 1, 2026 at 00:00 UTC.
+
+  [Offer details](https://mirage.offseq.com/pricing).
+
+  </details>
+
+- <img src="assets/favicons/offseq-pulse.png" width="16" height="16" alt=""> **[OffSeq Pulse](https://pulse.offseq.com/)** - Device posture agent for Windows, macOS and Linux, mapped to NIS2 and CIS v8.1.
+
+  <details>
+  <summary><strong>Black Friday: 50% off the first year or month</strong></summary>
+
+  New customers, applied automatically: €2 instead of €4 per device per month billed yearly, excl. VAT; first 2 devices free; then the regular price. Ends Dec 2, 2026 at 22:00 UTC.
+
+  [Offer details](https://pulse.offseq.com/pricing).
+
+  </details>
+
+- <img src="assets/favicons/offseq-radar.png" width="16" height="16" alt=""> **[OffSeq Threat Radar](https://radar.offseq.com/)** - CVE, CISA KEV and exploit intelligence with an API and SBOM scans.
+
+  <details>
+  <summary><strong>Black Friday: 50% off the first month or year</strong></summary>
+
+  Any plan, applied automatically, e.g. Individual €6 instead of €12 per month, incl. VAT; then the regular price. Ends Dec 1, 2026 at 23:59 UTC.
+
+  [Offer details](https://radar.offseq.com/pricing).
 
   </details>
 
