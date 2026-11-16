@@ -557,6 +557,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- <img src="assets/favicons/wishbar.png" width="16" height="16" alt=""> **[Wishbar](https://wishbar.app)** - Mac menu bar app: type what you want and your own ChatGPT or Claude builds a live widget.
+
+  <details>
+  <summary><strong>50% off every one-time licence, no code</strong></summary>
+
+  Solo (1 Mac) $19 instead of $39, Personal (2 Macs) $24 instead of $49, Family (5 Macs) $34 instead of $69, Nov 16 to Dec 7, 2026. The price applies automatically on the deal page. One-time purchase, every update included. macOS 13 or later. No affiliate link.
+
+  [Offer details](https://wishbar.app/black-friday).
+
+  </details>
+
 ## Contributing
 
 Found a deal or spotted an expired one? [Open an issue](https://github.com/bergside/awesome-black-friday/issues) or send a pull request with the offer, dates, and an official source. Keep descriptions short and disclose any affiliate links.
