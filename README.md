@@ -95,6 +95,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- <img src="assets/favicons/leave-me-alone.png" width="16" height="16" alt=""> **[Leave Me Alone](https://leavemealone.com/pricing/)** - Unsubscribe from unwanted emails in one click, block senders you never asked to hear from, and bundle newsletters into a digest.
+
+  <details>
+  <summary><strong>Black Friday: 83% off the Unlimited plan</strong></summary>
+
+  Yearly Unlimited plan at $59/year instead of $30/month: every feature, every inbox you own, and the same price when you renew. No code, the discount is applied on the pricing page. Works with Gmail, Outlook, iCloud, Yahoo, Fastmail, and IMAP. Ends Dec 8, 2026 at 8 a.m. UTC.
+
+  [Offer details](https://leavemealone.com/pricing/).
+
+  </details>
+
 ## AI & automation
 
 - <img src="assets/favicons/ai-fiesta.png" width="16" height="16" alt=""> **[AI Fiesta](https://aifiesta.link/bergside)** - Chat, research, and create with multiple AI models.
