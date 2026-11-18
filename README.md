@@ -386,6 +386,10 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
 - <img src="assets/favicons/unfair.png" width="16" height="16" alt=""> **[unfair.so](https://x.unfair.so/bergside)** - Find creators and run campaigns for your product.
   <br>*No offer confirmed yet.*
+  - **[BundleWP](https://bundlewp.com/complete-business-software-bundle/)** - Complete Business Software Bundle: FoodFleet, ShopKart, Billify, Auto Lead Pilot AI, Site Commander MCP, Pro Fin Suite, DataXtract Pro, WooFlow Manager, Fin Tools Theme, All In Smart Extractor, Orbit Meet.
+     **$129 one-time for all 11 products (regular $1,029) — 87% off with code BUNDLE129**
+      Lifetime access, license keys delivered automatically, coupon has no expiry.
+      [Offer details](https://bundlewp.com/complete-business-software-bundle/)
 
 ## Development & design
 
