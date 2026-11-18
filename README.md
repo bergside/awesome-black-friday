@@ -456,6 +456,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- **[Social Fetch](https://www.socialfetch.dev/black-friday)** - Public social data API and MCP server for AI agents.
+
+  <details>
+  <summary><strong>Double credits on every plan</strong></summary>
+
+  Social Fetch gives new plans double credits from 19 Nov to 1 Dec 2026. It is applied automatically at checkout, with no code. New monthly plans get double credits in month one, and new annual plans get double credits for the first 3 months. The $59 Growth pack is 25,000 credits plus 25,000 free. This is bonus credits, not a lower price.
+
+  [Offer details](https://www.socialfetch.dev/black-friday).
+
+  </details>
+
 - <img src="assets/favicons/typeui.png" width="16" height="16" alt=""> **[TypeUI](https://typeui.sh/)** - AI design skills, prompts, and website analytics.
 
   <details>
