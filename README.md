@@ -234,6 +234,22 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
 ## Social & content
 
+- <img src="https://ateliersocial.io/favicon.png" width="16" height="16" alt=""> **[Atelier Social](https://ateliersocial.io/black-friday)** - AI-first social studio for every brand, client and location.
+
+  <details>
+  <summary><strong>Black Friday: 83% off the first year</strong></summary>
+
+  Plans from $158 for the first year (renews at $948 a year), 83% off. Offer ends 31 December 2026, 23:59 London time.
+
+  [Offer details](https://ateliersocial.io/black-friday).
+
+  </details>
+
+
+
+
+
+
 - <img src="assets/favicons/buffer.png" width="16" height="16" alt=""> **[Buffer](https://join.buffer.com/bergside)** - Plan, schedule, and track social posts.
 
   <details>
@@ -300,6 +316,22 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- <img src="https://webinarflow.studio/favicon.png" width="16" height="16" alt=""> **[Webinar Flow](https://webinarflow.studio/black-friday)** - Automated webinars that run on a schedule and answer questions as people watch.
+
+  <details>
+  <summary><strong>Black Friday: 83% off the first year</strong></summary>
+
+  Growth $159 (normally $950) and Scale $399 ($2,390) for the first year, then the standard yearly price. New customers only, first 100 buyers. No code needed. Opens Fri 20 Nov and ends 1 Dec.
+
+  [Offer details](https://webinarflow.studio/black-friday).
+
+  </details>
+
+
+
+
+
+
 - <img src="assets/favicons/zernio.png" width="16" height="16" alt=""> **[Zernio](https://zernio.link/bergside)** - One API for social publishing, messaging, and analytics.
   <br>*No offer confirmed yet.*
 
@@ -356,6 +388,22 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- <img src="https://pagetest.ai/favicon.ico" width="16" height="16" alt=""> **[PageTest](https://pagetest.ai/black-friday)** - AI-written headline, button and copy tests on your real visitors.
+
+  <details>
+  <summary><strong>Black Friday: 83% off the first year</strong></summary>
+
+  $599 for the first year (normally $3,588) with code BF2026, applied for you. New customers only, first 100 customers, paid upfront for 12 months. Opens Fri 20 Nov and ends Tue 1 Dec, 23:59 UK time.
+
+  [Offer details](https://pagetest.ai/black-friday).
+
+  </details>
+
+
+
+
+
+
 - <img src="assets/favicons/pancake.png" width="16" height="16" alt=""> **[Pancake](https://pancake.dub.link/bergside)** - Connect AI agents to customer research and buying signals.
   <br>*No offer confirmed yet.*
 
@@ -367,6 +415,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
   Ranked advertises 20% savings with yearly billing compared with monthly billing. Choose an eligible annual plan and confirm the full annual charge, included service, and renewal pricing before paying.
 
   [Offer details](https://www.ranked.ai/pricing).
+
+  </details>
+
+- <img src="https://saastoolkit.ai/favicon.png" width="16" height="16" alt=""> **[SaaS Toolkit](https://saastoolkit.ai/black-friday)** - AI chat, visitor identification, email follow-up and team alerts in one place.
+
+  <details>
+  <summary><strong>Black Friday: 83% off the first year</strong></summary>
+
+  Growth $59 (normally $348) and Business $99 ($588) for the first year, paid upfront, then $29 or $49 a month. Code BF2026 is applied automatically. First 100 buyers across both plans, one per customer. Runs 20 Nov 00:00 to 1 Dec 23:59 UK time.
+
+  [Offer details](https://saastoolkit.ai/black-friday).
 
   </details>
 
