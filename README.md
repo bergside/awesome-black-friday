@@ -307,6 +307,9 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
 - <img src="assets/favicons/udemy.png" width="16" height="16" alt=""> **[Udemy](https://trk.udemy.com/oNKkno)** - Self-paced courses in programming, cloud, AI, and more.
   <br>*No offer confirmed yet.*
+- **[CyberWarFare Labs](https://cyberwarfare.live/)** - Hands-on cybersecurity training, practical labs, and industry-relevant certifications across Red Team, Blue Team, Cloud Security, AI Security, and more.
+  <br>**Black Friday 2026:** Up to 90% OFF course bundles, individual certifications starting at $5, Infinity Yearly for $49 with 2 free certifications (CRTA + AI-RTA), and Monthly access for $5. Use codes `INFINITY49` (Yearly) and `INFINITY5` (Monthly).
+  <br>[Explore all offers](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026)
 
 ## Analytics
 
