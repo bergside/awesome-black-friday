@@ -140,7 +140,7 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   Runs Nov 20 to Dec 7, 2026. 30% off every Lifetime license: Standard $41.30 instead of $59, Premium $83.30 instead of $119, Teams $111.30 instead of $159. Enconvo Cloud plans get 30% off the first payment. Applied automatically at checkout, no code needed. No affiliate link.
 
-  [Offer details](https://enconvo.com/pricing).
+  [Offer details](https://enconvo.com).
 
   </details>
 
