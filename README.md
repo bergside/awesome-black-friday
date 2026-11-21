@@ -308,6 +308,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 - <img src="assets/favicons/udemy.png" width="16" height="16" alt=""> **[Udemy](https://trk.udemy.com/oNKkno)** - Self-paced courses in programming, cloud, AI, and more.
   <br>*No offer confirmed yet.*
 
+- **[8kSec Academy](https://academy.8ksec.io/)** - On-demand mobile and AI security training with five certification tracks and hands-on labs.
+
+  <details>
+  <summary><strong>15% off all on-demand courses</strong> · code <code>8KSECBLACKFRIDAY</code></summary>
+
+  Full catalog discount on Practical AI Security (CAISR), Mobile App Exploitation (CMSE), Offensive Mobile Reversing (OMSE), Offensive iOS Internals (CISR), and Offensive Android Internals (CASR). Each course includes 365 days of access, hands-on labs, a mock exam, and a certification exam attempt. Valid Nov 20 – Dec 4, 2026.
+
+  [Offer details](https://academy.8ksec.io/).
+
+  </details>
+
 ## Analytics
 
 - <img src="assets/favicons/ai-peekaboo.png" width="16" height="16" alt=""> **[AI Peekaboo](https://www.aipeekaboo.com/)** - Track your brand's visibility in AI search.
