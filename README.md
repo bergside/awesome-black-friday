@@ -133,14 +133,14 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
-- <img src="assets/favicons/enconvo.png" width="16" height="16" alt=""> **[Enconvo](https://enconvo.com)** - Native AI assistant and agent for Mac that automates your apps, dictates, and searches your documents.
+- <img src="assets/favicons/enconvo.png" width="16" height="16" alt=""> **[Enconvo](https://enconvo.com/?utm_source=github-bergside&utm_medium=deal-list&utm_campaign=black-friday-2026)** - Native AI assistant and agent for Mac that automates your apps, dictates, and searches your documents.
 
   <details>
   <summary><strong>Black Friday: 30% off Lifetime licenses and your first Cloud payment</strong></summary>
 
   Runs Nov 20 to Dec 7, 2026. 30% off every Lifetime license: Standard $41.30 instead of $59, Premium $83.30 instead of $119, Teams $111.30 instead of $159. Enconvo Cloud plans get 30% off the first payment. Applied automatically at checkout, no code needed. No affiliate link.
 
-  [Offer details](https://enconvo.com).
+  [Offer details](https://enconvo.com/?utm_source=github-bergside&utm_medium=deal-list&utm_campaign=black-friday-2026).
 
   </details>
 
