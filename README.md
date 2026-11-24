@@ -389,6 +389,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
 ## Development & design
 
+- <img src="assets/favicons/a1.png" width="16" height="16" alt=""> **[A1](https://www.a1.gallery/pricing?utm_source=bergside&utm_medium=directory&utm_campaign=bf2026)** - Hand-picked gallery of real websites for design inspiration.
+
+  <details>
+  <summary><strong>Black Friday, Nov 19–30: 33% off A1 Pro yearly</strong></summary>
+
+  A1 Pro yearly is $48 a year instead of $72, and you keep that price for as long as you stay subscribed. New yearly plans only. Applied automatically at checkout, no code needed. Runs Nov 19 to Nov 30, 2026. No affiliate link.
+
+  [Offer details](https://www.a1.gallery/pricing).
+
+  </details>
+
 - <img src="assets/favicons/context.png" width="16" height="16" alt=""> **[Context.dev](https://link.context.dev/bergside)** - Web search and crawling APIs for AI apps.
 
   <details>
