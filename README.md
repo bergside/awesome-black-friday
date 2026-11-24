@@ -557,6 +557,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- **[ShiftApp](https://shiftapp.com/black-friday)** - Employee shift scheduling and time off management.
+
+  <details>
+  <summary><strong>Black Friday: 88% off the first eight months</strong></summary>
+
+  New Essential monthly orders. Code BLACKFRIDAY2026 is applied automatically. Regular monthly pricing follows. Nov 23 – Dec 12, 2026.
+
+  [Offer details](https://shiftapp.com/black-friday).
+
+  </details>
+
 ## Contributing
 
 Found a deal or spotted an expired one? [Open an issue](https://github.com/bergside/awesome-black-friday/issues) or send a pull request with the offer, dates, and an official source. Keep descriptions short and disclose any affiliate links.
