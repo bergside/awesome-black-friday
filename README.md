@@ -345,6 +345,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
 ## Marketing & growth
 
+- <img src="assets/favicons/backlinkgenie.png" width="16" height="16" alt=""> **[BacklinkGenie](https://backlinkgenie.com/black-friday/?utm_source=bergside&utm_medium=deal&utm_campaign=bfcm2026)** - AI link-building agent that pitches editors and tracks won links.
+
+  <details>
+  <summary><strong>Black Friday, Nov 24–Dec 31: 30% off monthly or 50% off yearly</strong></summary>
+
+  30% off monthly plans or 50% off yearly plans, on every billing cycle for as long as you stay subscribed. Applied automatically at checkout (codes `BFCM30` / `BFCM50` if needed). Starter drops from $99 to $69.30 a month, or from $990 to $495 a year. Runs Nov 24 to Dec 31, 2026 (Pacific). No affiliate link.
+
+  [Offer details](https://backlinkgenie.com/black-friday/).
+
+  </details>
+
 - <img src="assets/favicons/dub.png" width="16" height="16" alt=""> **[Dub](https://refer.dub.co/bergside)** - Short links, conversion tracking, and affiliate programs.
 
   <details>
