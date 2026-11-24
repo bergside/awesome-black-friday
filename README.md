@@ -133,6 +133,16 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- <img src="assets/favicons/grai.png" width="16" height="16" alt=""> **[Grai](https://grai.page)** - Offline cadence gate that flags AI-writing tells before clients do.
+
+  <details>
+  <summary><strong>30% off your first billing cycle</strong> · code <code>BF2026</code></summary>
+
+  30% off your first billing cycle on Solo Offline ($79/yr) and Agency Protocol ($99/mo, $790/yr) with code BF2026 at checkout. Valid Nov 24 to Nov 30, 2026. The offer is shown on the grai.page homepage.
+
+  [Offer details](https://grai.page).
+
+  </details>
 - <img src="assets/favicons/magica.png" width="16" height="16" alt=""> **[Magica](https://try.magica.com/bergside)** - An AI workspace for images, video, and design.
   <br>*No offer confirmed yet.*
 
