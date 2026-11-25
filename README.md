@@ -169,6 +169,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- <img src="assets/favicons/screenpipe.png" width="16" height="16" alt=""> **[Screenpipe](https://screenpipe.com/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black_friday_2026&utm_content=bergside)** - AI that knows everything you've seen, said, or heard: local screen + audio capture turned into searchable memory, skills and workflows for Claude, Codex, Cursor and teams.
+
+  <details>
+  <summary><strong>20% off the first year of annual plans</strong></summary>
+
+  screenpipe.com/black-friday lists the campaign prices from November 25 to November 30, 2026 (ends 11:59pm PT): Basic $250 → $200 and Business $500 → $400 per seat for the first year, applied automatically at checkout (no code). Renews at the regular annual price after the first year.
+
+  [Offer details](https://screenpipe.com/black-friday).
+
+  </details>
+
 ## Email & customer support
 
 - <img src="assets/favicons/chatbase.png" width="16" height="16" alt=""> **[Chatbase](https://link.chatbase.co/bergside)** - AI support agents trained on your product.
