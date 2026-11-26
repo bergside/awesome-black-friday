@@ -370,6 +370,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- <img src="assets/favicons/startup-buffer.png" width="16" height="16" alt=""> **[Startup Buffer](https://startupbuffer.com/promote)** - Startup directory with 33,000+ listings and homepage features.
+
+  <details>
+  <summary><strong>Black Friday, Nov 26–Dec 4: 50% off homepage features</strong></summary>
+
+  50% off homepage features, applied automatically with no code: 2 weeks drops from $49 to $24.50 and 3 months from $299 to $149.50. Runs Nov 26 to Dec 4, 2026. No affiliate link.
+
+  [Offer details](https://startupbuffer.com/promote).
+
+  </details>
+
 - <img src="assets/favicons/superscale.png" width="16" height="16" alt=""> **[Superscale](https://try.superscale.ai/bergside)** - Create and test video and image ads with AI.
   <br>*No offer confirmed yet.*
 
