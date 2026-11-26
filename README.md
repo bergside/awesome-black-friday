@@ -232,7 +232,7 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
-- <img src="assets/favicons/mailsketch.png" width="16" height="16" alt=""> **[MailSketch](https://mailsketch.com/?utm_source=bergside&utm_medium=directory&utm_campaign=bf2026)** - Email design: 1,200+ templates, drag and drop, export to Klaviyo or Mailchimp.
+- <img src="assets/favicons/mailsketch.png" width="16" height="16" alt=""> **[MailSketch](https://mailsketch.com/?utm_source=bergside&utm_medium=directory&utm_campaign=bf2026)** - Email design: 1,200+ templates, drag and drop, export to any email platform.
 
   <details>
   <summary><strong>Lifetime plan from $99 once, Nov 26–Dec 31</strong></summary>
