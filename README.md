@@ -95,14 +95,14 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
-- **[VibeShield](https://vibe-checker.appwrite.network/)** - Read-only web app security scanner for client JS bundle secrets, source maps, TLS, and Supabase RLS.
+- **[VibeShield](https://shipbastion.com/)** - Read-only web app security scanner for client JS bundle secrets, source maps, TLS, and Supabase RLS.
 
   <details>
   <summary><strong>Black Friday: 78% off one-time remediation pack ($2, was $9)</strong></summary>
 
   One-time purchase with no recurring billing and no coupon code needed (or $5 one-time for the 3-in-1 OmniForge Launch Stack, regularly $29). Free 116-check live audit requires no signup. Ends Dec 2, 2026 at 23:59 UTC.
 
-  [Offer details](https://omnipulse-x402.appwrite.network/checkout/vibeshield).
+  [Offer details](https://api.shipbastion.com/checkout/vibeshield).
 
   </details>
 
