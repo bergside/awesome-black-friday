@@ -232,6 +232,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- <img src="assets/favicons/mailsketch.png" width="16" height="16" alt=""> **[MailSketch](https://mailsketch.com/?utm_source=bergside&utm_medium=directory&utm_campaign=bf2026)** - Email design: 1,200+ templates, drag and drop, export to Klaviyo or Mailchimp.
+
+  <details>
+  <summary><strong>Lifetime plan from $99 once, Nov 26–Dec 31</strong></summary>
+
+  Lifetime plan $99 once (Solo), $249 Team, $499 Business; no subscription and no code. Available until 31 Dec 2026, for a limited time and in limited numbers. Not an affiliate link.
+
+  [Offer details](https://mailsketch.com/pricing#lifetime).
+
+  </details>
+
 ## Social & content
 
 - <img src="assets/favicons/buffer.png" width="16" height="16" alt=""> **[Buffer](https://join.buffer.com/bergside)** - Plan, schedule, and track social posts.
