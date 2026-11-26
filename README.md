@@ -445,6 +445,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 - <img src="assets/favicons/macaly.png" width="16" height="16" alt=""> **[Macaly](https://macaly.link/bergside)** - Turn a prompt into a website or web app.
   <br>*No offer confirmed yet.*
 
+- **[Pixels71](https://www.pixels71.com/pricing)** - Website templates for Framer, Next.js and Astro, plus Figma design files.
+
+  <details>
+  <summary><strong>40% off the All-Access Pass</strong></summary>
+
+  $59 once (was $99), Nov 24–Dec 1, 2026, ending at 23:59 Dhaka time (UTC+6). Covers current and future templates for unlimited client sites.
+
+  [Offer details](https://www.pixels71.com/pricing).
+
+  </details>
+
 - <img src="assets/favicons/shadcn.png" width="16" height="16" alt=""> **[Shadcn.io](https://go.shadcn.io/bergside)** - React components, blocks, and templates.
 
   <details>
