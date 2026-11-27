@@ -97,6 +97,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
 ## AI & automation
 
+- <img src="https://agnt.gg/assets/social/agnt-logo-512.png" width="16" height="16" alt=""> **[AGNT](https://agnt.gg/pricing)** - Build AI agents and workflows that run on your computer or a cloud instance.
+
+  <details>
+  <summary><strong>40% off the first year of yearly plans</strong></summary>
+
+  Pay yearly with code `BLACKFRIDAY`, applied at checkout: Pro is $174 for the first year (normally $290) and Team is $594 (normally $990). Renews at the regular yearly price. Runs Nov 18 to Nov 30, 2026, 11:59 pm PT. Listed by the AGNT team; no affiliate link.
+
+  [Offer details](https://agnt.gg/pricing).
+
+  </details>
+
 - <img src="assets/favicons/ai-fiesta.png" width="16" height="16" alt=""> **[AI Fiesta](https://aifiesta.link/bergside)** - Chat, research, and create with multiple AI models.
 
   <details>
