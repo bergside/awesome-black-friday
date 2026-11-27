@@ -158,6 +158,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- <img src="assets/favicons/rewritebar.png" width="16" height="16" alt=""> **[RewriteBar](https://rewritebar.com/black-friday)** - AI writing assistant in the Mac menu bar that fixes grammar, rewrites, and translates text in any app.
+
+  <details>
+  <summary><strong>50% off every lifetime license</strong></summary>
+
+  Code BF2026 takes 50% off the one-time Standard license ($29 to $14.50) and Pro license ($59 to $29.50), from November 2 to December 3, 2026. The code is applied automatically at checkout. No subscription; a free trial is available.
+
+  [Offer details](https://rewritebar.com/black-friday).
+
+  </details>
+
 - <img src="assets/favicons/runable.png" width="16" height="16" alt=""> **[Runable](https://runable.link/bergside)** - An AI agent for websites, content, and everyday tasks.
 
   <details>
