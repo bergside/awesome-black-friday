@@ -389,14 +389,14 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
 ## Development & design
 
-- <img src="assets/favicons/context.png" width="16" height="16" alt=""> **[Context.dev](https://link.context.dev/bergside)** - Web search and crawling APIs for AI apps.
+- <img src="assets/favicons/context.png" width="16" height="16" alt=""> **[Context.dev](https://www.context.dev/pricing)** - Web search and crawling APIs for AI apps.
 
   <details>
-  <summary><strong>25% off for six months</strong> · code <code>BERGSIDE25OFF</code></summary>
+  <summary><strong>30% off new purchases of paid plans for one year</strong> · automatically applied</summary>
 
-  New customers: follow our link and use BERGSIDE25OFF for 25% off for six months, then regular pricing.
+  Black Friday 2026: 30% off new purchases of paid plans for one year, automatically applied; no code needed. Developer $20 → $14/month. Ends Dec 1, 2026.
 
-  [Offer details](https://partners.dub.co/context-dev).
+  [Offer details](https://www.context.dev/pricing).
 
   </details>
 
