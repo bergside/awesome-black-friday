@@ -389,6 +389,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
 ## Development & design
 
+- <img src="assets/favicons/apxy.png" width="16" height="16" alt=""> **[APXY](https://apxy.dev/?utm_source=github&utm_medium=bf_list&utm_campaign=bfcm2026)** - Local HTTP/HTTPS debugging proxy with a CLI and MCP server so coding agents can check the real requests their code sends.
+
+  <details>
+  <summary><strong>Black Friday: 30% off APXY Pro, one-time</strong> · code <code>APXY2026</code></summary>
+
+  Use APXY2026 for 30% off APXY Pro: $99 → $69.30, a one-time purchase for 3 devices. The free tier has every feature with 10-minute proxy sessions. macOS and Linux. Limited time; no end date announced, so confirm the price at checkout.
+
+  [Offer details](https://apxy.dev/).
+
+  </details>
+
 - <img src="assets/favicons/context.png" width="16" height="16" alt=""> **[Context.dev](https://link.context.dev/bergside)** - Web search and crawling APIs for AI apps.
 
   <details>
