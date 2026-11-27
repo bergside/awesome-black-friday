@@ -343,6 +343,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- <img src="assets/favicons/notra.png" width="16" height="16" alt=""> **[Notra](https://www.usenotra.com/)** - Track and grow your brand's visibility in ChatGPT, Gemini, and other AI search.
+
+  <details>
+  <summary><strong>Black Friday: 25% off every paid plan for 6 months</strong></summary>
+
+  New customers get 25% off every paid plan for their first 6 months on monthly billing, applied automatically at checkout. No code needed. Starter is $75/month instead of $100; regular pricing applies after six months. Ends Dec 2, 2026 at 11:59 p.m. GMT.
+
+  [Offer details](https://www.usenotra.com/pricing).
+
+  </details>
+
 ## Marketing & growth
 
 - <img src="assets/favicons/dub.png" width="16" height="16" alt=""> **[Dub](https://refer.dub.co/bergside)** - Short links, conversion tracking, and affiliate programs.
