@@ -71,6 +71,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- <img src="https://www.google.com/s2/favicons?domain=beam.cloud&sz=64" width="16" height="16" alt=""> **[Beam](https://www.beam.cloud/pricing)** - Serverless GPUs, sandboxes, and VMs for AI apps and agents.
+
+  <details>
+  <summary><strong>Black Friday: double your credits, up to $100 free</strong></summary>
+
+  Runs Nov 27 to Nov 30, 2026, ending at 11:59 p.m. ET. Every credit purchase is matched 1:1, up to $100 in free credits (buy $20, get $20 free). Applied automatically, no code needed. New and existing accounts. Usage after the bonus credits is billed at regular pricing.
+
+  [Offer details](https://www.beam.cloud/pricing).
+
+  </details>
+
 ## Security & privacy
 
 - <img src="assets/favicons/nordpass.png" width="16" height="16" alt=""> **[NordPass](https://go.nordpass.io/aff_c?offer_id=488&aff_id=160368&url_id=9356)** - Store passwords and passkeys, and autofill logins.
