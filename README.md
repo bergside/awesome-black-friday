@@ -392,9 +392,9 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 - <img src="assets/favicons/context.png" width="16" height="16" alt=""> **[Context.dev](https://www.context.dev/pricing)** - Web search and crawling APIs for AI apps.
 
   <details>
-  <summary><strong>30% off paid plans for one year</strong> · automatically applied</summary>
+  <summary><strong>30% off new purchases of paid plans for one year</strong> · automatically applied</summary>
 
-  Black Friday 2026: 30% off paid plans for one year, automatically applied; no code needed. Developer $20 → $14/month. Ends Dec 1, 2026.
+  Black Friday 2026: 30% off new purchases of paid plans for one year, automatically applied; no code needed. Developer $20 → $14/month. Ends Dec 1, 2026.
 
   [Offer details](https://www.context.dev/pricing).
 
