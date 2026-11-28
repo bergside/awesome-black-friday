@@ -386,6 +386,16 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
 - <img src="assets/favicons/unfair.png" width="16" height="16" alt=""> **[unfair.so](https://x.unfair.so/bergside)** - Find creators and run campaigns for your product.
   <br>*No offer confirmed yet.*
+- <img src="assets/favicons/refer-is.png" width="16" height="16" alt=""> **[refer.is](https://refer.is/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bfcm-2026&utm_content=bergside)** - Link shortener with QR codes and click analytics.
+
+  <details>
+  <summary><strong>30% off all plans for Black Friday</strong></summary>
+
+  New customers get 30% off all plans with code BF2026, Nov 27 - Dec 1, 2026.
+
+  [Offer details](https://refer.is/pricing).
+
+  </details>
 
 ## Development & design
 
